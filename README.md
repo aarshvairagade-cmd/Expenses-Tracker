@@ -27,7 +27,7 @@ A simple and responsive Expense Tracker web application built using HTML, CSS, a
 
 ## 🌐 Live Demo
 
-👉 https://your-username.github.io/expense-tracker/
+👉https://aarshvairagade-cmd.github.io/Expenses-Tracker/
 
 ---
 
