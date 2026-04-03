@@ -32,8 +32,11 @@ A simple and responsive Expense Tracker web application built using HTML, CSS, a
 ---
 
 ## 📸 Screenshot
-
+Screenshot 2026-04-02 231226.png
 
 ---
 
 ## 📂 Project Structure
+index.html
+script.js
+style.css
